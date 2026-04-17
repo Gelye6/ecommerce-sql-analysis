@@ -3,7 +3,7 @@ Project Overview
 This project involves a comprehensive SQL-based analysis of an Ecommerce database. The objective was to extract actionable business insights regarding sales performance, customer purchasing behavior, and operational efficiency. The analysis covers a range of SQL techniques, from foundational joins and aggregations to advanced analytical methods.
 
 Objectives
-- Revenue Analysis: Identify high-value employees and top-spending customers.
+-  Revenue Analysis: Identify high-value employees and top-spending customers.
 - Time-Series Trends: Track monthly sales patterns to identify peak periods in 1997.
 - Fulfillment Tracking: Calculate average order processing times based on shifting annual business rules.
 - Advanced Ranking: Implement leaderboards and statistical rankings for products and staff performance.
